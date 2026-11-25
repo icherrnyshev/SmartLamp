@@ -1,9 +1,0 @@
-
-| № | Название | Тех. название | Ссылка на документацию |
-| :-: | :--- | :--- | :--- |
-| 1 | Arduino UNO | ATmega328P (UNO R3) | [Arduino Docs](https://docs.arduino.cc/hardware/uno-rev3) |
-| 2 | Датчик движения | HC-SR505 | [Datasheet (PDF)](https://www.rapidonline.com/pdf/78-4110_v1.pdf) |
-| 3 | RGB-светодиод | RGB LED (5mm) | [Arduino Guide](https://arduino.cc) |
-| 4 | Датчик температуры и влажности | DHT22 (AM2302) | [Datasheet (PDF)](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf) |
-| 5 | Дисплей | LCD 1602 (PCF8574 I2C) | [SunFounder Docs](https://docs.sunfounder.com/projects/sf-components/en/latest/component_i2c_lcd.html) |
-
